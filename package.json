@@ -9,7 +9,7 @@
   "devDependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.11.0",
-    "jest": "^22.4.3"
+    "jest": "^29.3.1"
   },
   "name": "nodebackendboilerplate",
   "version": "1.0.0",
